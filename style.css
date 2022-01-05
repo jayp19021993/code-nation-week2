@@ -1,0 +1,91 @@
+body {
+    background-color: white;
+  } 
+
+  .nav-list1{
+display: flex; 
+justify-content: center; 
+align-items: center;
+list-style: none; 
+justify-content: space-around; 
+flex-wrap: wrap;
+font-family: 'Varela Round', sans-serif
+}
+
+.box1{
+    
+  background-color:white;
+  width: 300px;
+  border: 20px solid white;
+  padding: 50px;
+  margin: 20px;
+  box-sizing: border-box;
+  justify-content: center; 
+  align-items: center; 
+  font-family: 'Varela Round', sans-serif;
+  font: size 13px;
+
+} 
+
+
+.about{
+    background-color:white;
+    width: 300px;
+    border: 15px solid white;
+    padding: 50px;
+    margin: 20px;
+    justify-content: center; 
+    align-items: center;
+    font-family: 'Varela Round', sans-serif
+}
+
+
+.nav-list2{
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  list-style: none; 
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-family: 'Varela Round', sans-serif
+  }
+
+.nav-list3{
+display: flex; 
+justify-content: center; 
+align-items: center;
+list-style: none; 
+justify-content: space-around; 
+flex-wrap: wrap; 
+flex-direction: column;
+font-family: 'Varela Round', sans-serif
+}
+
+.sponsors{
+background-color:white;
+width: 300px;
+border: 15px solid white;
+padding: 50px;
+margin: 20px;
+justify-content: center; 
+align-items: center; 
+font-family: 'Varela Round', sans-serif
+}
+
+.email{
+  background-color:lightgray;
+  width: 300px;
+  border: 15px solid white;
+  padding: 50px;
+  margin: 20px;
+  justify-content: center; 
+  align-items: center; 
+  font-family: 'Varela Round', sans-serif
+
+}
+
+footer{
+    display: flex;
+    justify-content: flex-end; 
+    align-items: flex-end;
+} 
